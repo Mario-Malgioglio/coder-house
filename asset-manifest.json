@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/coder-house/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github.io/coder-house/static/js/main.adbd3469.chunk.js",
-    "main.js.map": "/github.io/coder-house/static/js/main.adbd3469.chunk.js.map",
-    "runtime-main.js": "/github.io/coder-house/static/js/runtime-main.349d24ac.js",
-    "runtime-main.js.map": "/github.io/coder-house/static/js/runtime-main.349d24ac.js.map",
-    "static/js/2.eb4a760c.chunk.js": "/github.io/coder-house/static/js/2.eb4a760c.chunk.js",
-    "static/js/2.eb4a760c.chunk.js.map": "/github.io/coder-house/static/js/2.eb4a760c.chunk.js.map",
-    "index.html": "/github.io/coder-house/index.html",
-    "precache-manifest.a5e6fb9143c07d65d10400856ce7e85b.js": "/github.io/coder-house/precache-manifest.a5e6fb9143c07d65d10400856ce7e85b.js",
-    "service-worker.js": "/github.io/coder-house/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/github.io/coder-house/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb4a760c.chunk.js.LICENSE.txt": "/github.io/coder-house/static/js/2.eb4a760c.chunk.js.LICENSE.txt",
-    "static/media/cart.svg": "/github.io/coder-house/static/media/cart.e3ce101b.svg"
+    "main.css": "/coder-house/static/css/main.5f361e03.chunk.css",
+    "main.js": "/coder-house/static/js/main.3eadad51.chunk.js",
+    "main.js.map": "/coder-house/static/js/main.3eadad51.chunk.js.map",
+    "runtime-main.js": "/coder-house/static/js/runtime-main.e33ae1f0.js",
+    "runtime-main.js.map": "/coder-house/static/js/runtime-main.e33ae1f0.js.map",
+    "static/js/2.eb4a760c.chunk.js": "/coder-house/static/js/2.eb4a760c.chunk.js",
+    "static/js/2.eb4a760c.chunk.js.map": "/coder-house/static/js/2.eb4a760c.chunk.js.map",
+    "index.html": "/coder-house/index.html",
+    "precache-manifest.37560767905798a41272504ff88779ad.js": "/coder-house/precache-manifest.37560767905798a41272504ff88779ad.js",
+    "service-worker.js": "/coder-house/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/coder-house/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb4a760c.chunk.js.LICENSE.txt": "/coder-house/static/js/2.eb4a760c.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/coder-house/static/media/cart.e3ce101b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.349d24ac.js",
+    "static/js/runtime-main.e33ae1f0.js",
     "static/js/2.eb4a760c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.adbd3469.chunk.js"
+    "static/js/main.3eadad51.chunk.js"
   ]
 }
