@@ -3,7 +3,8 @@ import { unstable_renderSubtreeIntoContainer } from "react-dom";
 
 export default function AgregarAlCarrito() {
   const [unidades, setUnidades] = useState(0);
-  const[mensaje,setMensaje]= useState('producto agragado al carrito')
+  const [mensaje, setMensaje] = useState("producto agragado al carrito");
+
   return (
     <>
       <div>
@@ -14,7 +15,11 @@ export default function AgregarAlCarrito() {
         <label> </label>
         <button
           className="btn-info m-1"
-          onClick={() => setUnidades(unidades - 1)}
+          onClick={
+            unidades > 0
+              ? () => setUnidades(unidades - 1)
+              : console.log("debe mayor que cero")
+          }
         >
           -
         </button>
@@ -24,7 +29,12 @@ export default function AgregarAlCarrito() {
         >
           +
         </button>
-        <button className="btn-danger m-1" onClick={()=> alert(mensaje)}>
+        <button
+          className="btn-danger m-1"
+          onClick={
+            unidades > 0 ? () => alert(mensaje) : console.log("debe > 0")
+          }
+        >
           Agregar al carrito
         </button>
       </div>
